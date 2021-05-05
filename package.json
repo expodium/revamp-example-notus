@@ -9,6 +9,7 @@
     "preview-https": "serve dist"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "@popperjs/core": "^2.9.2",
     "@vueuse/core": "^4.8.2",
     "@vueuse/head": "^0.5.1",
